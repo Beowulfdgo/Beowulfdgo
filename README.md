@@ -3,9 +3,9 @@
 <div align="center">
 <p>You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/krol3/krol3/issues/new"><b>here</b></a><br>
-or <a href="mailto:krolroot@outlook.com"><b>email</b></a> me <br>
-or Let's have a call <g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji>, feel free to pick a slot on <a href="https://calendly.com/krol/meeting" rel="nofollow">Calendly</a> to talk with me...</p>
+Ask me anything <a href="https://github.com/Beowulfdgo/Beowulfdgo/issues/new"><b>here</b></a><br>
+or <a href="mailto:antonioflores30@hotmail.com"><b>email</b></a> me <br>
+or Let's have a call <g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji>,
 <p><i>Happy Coding!</i> <g-emoji class="g-emoji" alias="smiley_cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f63a.png">😺</g-emoji></p>
 </div>
 
