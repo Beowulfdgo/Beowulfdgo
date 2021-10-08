@@ -101,3 +101,5 @@
 [Nobi-U]: https://www.youtube.com/playlist?list=PL10ti43jfbrxRN4EU4jB5qZiiqdTdRQxs
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+ <img src="https://visitor-badge.glitch.me/badge?page_id=Beowulfdgo.Beowulfdgo." alt="Visitors Counter">
