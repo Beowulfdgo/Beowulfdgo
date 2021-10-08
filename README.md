@@ -9,8 +9,18 @@ or Let's have a call <g-emoji class="g-emoji" alias="phone" fallback-src="https:
 <p><i>Happy Coding!</i> <g-emoji class="g-emoji" alias="smiley_cat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f63a.png">😺</g-emoji></p>
 </div>
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 🙃
+<div align="center">
+<a href="https://linkedin.com/in/carolgv" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+<a href="https://www.instagram.com/krol3" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://krol3.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://twitter.com/krol_valencia" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://dev.to/krol_valencia" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev" /></a>
+<a href="https://open.spotify.com/user/krol3" target="_blank"><img align="center" src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+</div>
+
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
