@@ -64,10 +64,10 @@ or Let's have a call <g-emoji class="g-emoji" alias="phone" fallback-src="https:
 
 <!-- YOUTUBE:START -->
 - [Error 404 Google Drive hosting gratis](https://youtu.be/bV1CTJjwP_g)
-- [Ultimate Guide to Web Development in 2021 & Beyond! | Roadmap 2021+](https://www.youtube.com/watch?v=7k7ETzqOxn8)
+- [Procesamiento de Lenguaje Natural con Aplicación Móvil utilizando procesamiento de Voz](https://youtu.be/pBMDxCCxXmY)
 - [Quick JavaScript Challenge from Scrimba - Advent Calendar](https://www.youtube.com/watch?v=V-J2OnZRC0I)
-- [BLACK FRIDAY!! - Join Me For An Amazing Offer!!](https://www.youtube.com/watch?v=lFF5jQeQuEs)
-- [Responsive Mega Menu and Multi Level Dropdown | Animations | HTML, CSS, & JavaScript Tutorial (2020)](https://www.youtube.com/watch?v=8qO5QmD5gfM)
+- [Utilizando simulador de jflap para Maquina de turing (Lenguajes y Automatas)](https://youtu.be/Qyx1CH5Gfbs)
+- [Chatbot fanpage Facebook](https://youtu.be/9155HjVRQJ8M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UClwWL-ep6631CMKiOs-Uebw)
