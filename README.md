@@ -23,7 +23,7 @@ or Let's have a call <g-emoji class="g-emoji" alias="phone" fallback-src="https:
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
