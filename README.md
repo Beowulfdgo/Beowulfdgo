@@ -102,7 +102,12 @@ or Let's have a call <g-emoji class="g-emoji" alias="phone" fallback-src="https:
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
- <img src="https://visitor-badge.glitch.me/badge?page_id=Beowulfdgo.Beowulfdgo." alt="Visitors Counter">
+ ### Mis estadísticas
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxsross&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxsross&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
+</p>
  <h3 dir="auto"><a id="user-content-donate" class="anchor" aria-hidden="true" href="#donate"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Donate</h3>
  <p dir="auto">You can buy me a coffee if this project was helpful to you.<br></p>
  <p dir="auto"><a href="https://www.buymeacoffee.com/Beowulfdgo" rel="nofollow"><img src="https://camo.githubusercontent.com/f0ef3c066da238a04d20a8b01915bf2441dfae950652dfa5b2bf00340f6ecf6d/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f67756964656c696e65732f646f776e6c6f61642d6173736574732d736d2d312e737667" alt="Show your support" width="180" data-canonical-src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" style="max-width: 100%;"></a></p>
